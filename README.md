@@ -1,10 +1,12 @@
 # Day-11
 
-#Palindrome1.txt
+Palindrome1.txt
+
 
 -This shell script checks if a given string is a palindrome (reads the same backward as forward). 
 
-#Here's a short summary:
+Here's a short summary:
+
 
 -Prompts the user to enter a string.
 -Reverses the string using the rev command.
